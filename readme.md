@@ -14,12 +14,12 @@ Console App is a project to do something.
 This application follows iDesign. The exisiting solution structure is as follows:
 
 _Documentation
-1\. Clients
-2\. Managers
-3\. Engines
-4\. Accessors
-5\. Utilities
-6\. Tests
+1\. Clients  
+2\. Managers  
+3\. Engines  
+4\. Accessors  
+5\. Utilities  
+6\. Tests  
 Solution Items
 
 ConsoleApp utilizes StyleCop, the Ruleset can be found at:
@@ -34,4 +34,4 @@ This project is hosted on GitHub the link to this repository is:
 [GitHub link](githubLinkToRepo)
 
 ## Author
-Jerick Svec | svecjerick@gmail.com | 08/02/2019# ConsoleApp
+Jerick Svec | svecjerick@gmail.com | 08/02/2019
