@@ -13,7 +13,7 @@ Console App is a project to do something.
 ## Structure
 This application follows iDesign. The exisiting solution structure is as follows:
 
-_Documentation
+Documentation  
 1\. Clients  
 2\. Managers  
 3\. Engines  
