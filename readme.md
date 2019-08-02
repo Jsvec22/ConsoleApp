@@ -1,11 +1,11 @@
 ## ConsoleApp
 
 ## Contents
-    - [Introduction](#introduction)
-    - [Structure](#structure)
-    - [Dependency Injection](#dependency-injection)
-    - [GitHub](#github)
-    - [Author](#Author)
+- [Introduction](#introduction)
+- [Structure](#structure)
+- [Dependency Injection](#dependency-injection)
+- [GitHub](#github)
+- [Author](#Author)
 
 ## Introduction
 Console App is a project to do something.
