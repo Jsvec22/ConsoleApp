@@ -14,6 +14,7 @@ Console App is a project to do something.
 This application follows iDesign. The exisiting solution structure is as follows:
 
 Documentation  
+```
     1\. Clients  
     2\. Managers  
     3\. Engines  
@@ -21,6 +22,7 @@ Documentation
     5\. Utilities  
     6\. Tests  
     Solution Items
+```
 
 ConsoleApp utilizes StyleCop, the Ruleset can be found at:
 [Ruleset files](rulesetFilePath)
